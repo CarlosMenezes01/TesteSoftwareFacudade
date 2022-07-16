@@ -36,7 +36,7 @@ public class NewEmptyJUnitTest {
     public void tearDown() {
     }
 
-    // TODO add test methods here.
+    // TODO add test methods here teste.
     // The methods must be annotated with annotation @Test. For example:
     //
     // @Test
