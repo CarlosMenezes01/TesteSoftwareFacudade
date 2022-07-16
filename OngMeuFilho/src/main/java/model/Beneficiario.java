@@ -38,7 +38,7 @@ public class Beneficiario {
         int mesNasc = in.nextInt();
         int anoNasc = in.nextInt();
         int idade = (anoAtual - anoNasc);
-        System.out.println("voce tem: " + idade + " anos.");
+        System.out.println("voce tem  : " + idade + " anos.");
 
         if (idade >= 1 && idade <= 5) {
             System.out.printf("Tem direito ao Kit");
