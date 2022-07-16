@@ -27,7 +27,7 @@ public class ContaTest {
         if((conta.getSaldo()==100.00) && (resultado==true)){
             System.out.println("PASSOU no teste!!");
         }else{
-            System.out.println("Não passou no teste!!!");
+            System.out.println("Não passou no teste!!!!!");
         }
     }
 }
